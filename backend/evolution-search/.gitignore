@@ -1,0 +1,6 @@
+# 排除掉idea生成的文件
+.idea/
+.iml
+
+# 排除掉maven生成的文件
+target/

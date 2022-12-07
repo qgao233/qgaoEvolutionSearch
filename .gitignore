@@ -1,0 +1,5 @@
+# 排除掉gitbook依赖的模块
+node_modules/
+
+# 排除掉gitbook编绎后的html文件
+_book/
