@@ -30,3 +30,7 @@
 大版本更新   \     \
             年月  小版本号
 ```
+
+# 4 项目架构简单说明
+
+![](./docs/img/evolutionSearch架构v1.0.png)
